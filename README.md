@@ -9,7 +9,6 @@ https://pokeapi.co/api/v2/pokemon
 <p float="left">
   <img src="https://user-images.githubusercontent.com/69725753/207713673-07f309df-d452-472e-ba0f-789eab9c929e.png" width="200" />
   <img src="https://user-images.githubusercontent.com/69725753/207713611-822d0540-bf58-4d32-a775-b0179f13acae.png" width="200" /> 
-  <img src="https://user-images.githubusercontent.com/69725753/207713627-67729214-eaca-47ea-a893-8ffe633650ea.png" width="200" />
 </p>
 
 The user can easily change the theme.
